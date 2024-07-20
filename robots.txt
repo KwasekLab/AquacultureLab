@@ -1,1 +1,1 @@
-Sitemap: https://kwaseklab.github.io/sitemap.xml
+Sitemap: https://kwaseklab.github.io/LabWebsiteTest/sitemap.xml
