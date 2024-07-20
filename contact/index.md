@@ -14,20 +14,15 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="karolina.kwasek@unh.edu"
+  link="karolina.kwasek@unh.edu"
 %}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
+
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+link="https://www.google.com/maps/place/Spaulding+Life+Sciences+Center/@43.1352016,-70.9370998,17z/data=!3m1!4b1!4m6!3m5!1s0x89e293bc50e412b9:0x187c7c86bbc71bd1!8m2!3d43.1352016!4d-70.9345249!16s%2Fg%2F11r97v_1y?entry=ttu"
 %}
 
 {% include section.html %}
