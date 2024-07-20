@@ -26,8 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/PeteMichal.jpeg"
-  image_style="object-fit: contain;"
+  image="images/kwasek lab.webp"
   link="research"
   title="Our Research"
   text=text
@@ -50,7 +49,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/PeteMichal.jpeg"
+  image_style="object-fit: contain;"
   link="projects"
   title="Our Projects"
   flip=true
