@@ -27,6 +27,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/PeteMichal.jpeg"
+  style="object-fit: contain;"
   link="research"
   title="Our Research"
   text=text
