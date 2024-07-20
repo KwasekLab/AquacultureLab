@@ -19,6 +19,7 @@ undergrad:
   description: Undergraduate Student
 
 exmember:
+  icon: fa-solid fa-hourglass
   description: Past Member
 
 programmer:
