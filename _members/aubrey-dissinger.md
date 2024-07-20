@@ -5,7 +5,7 @@ description:
 role: PhD Student
 links:
   email: aubrey.dissinger@unh.edu
-  twitter:
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
