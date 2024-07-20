@@ -13,7 +13,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" image="karolina-kwasek.webp" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
@@ -26,7 +26,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% capture content %}
 
-{% include figure.html image="images/karolina-kwasek.webp" %}
+{% include figure.html image="photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
