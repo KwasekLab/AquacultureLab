@@ -2,7 +2,7 @@
 name: Aubrey Dissinger
 image: images/photo.jpg
 description: 
-role: PhD Student
+role: phd
 links:
   email: aubrey.dissinger@unh.edu
 
