@@ -18,6 +18,9 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
+exmember:
+  description: Past Member
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer
