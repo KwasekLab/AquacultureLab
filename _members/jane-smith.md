@@ -1,14 +1,12 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Karolina Kwasek
+image: images/karolina-kwasek.webp
 role: pi
-affiliation: University of Colorado
+affiliation: 
 aliases:
-  - J. Smith
-  - J Smith
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  UNH: https://colsa.unh.edu/person/karolina-kwasek
+  orcid: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
