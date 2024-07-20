@@ -1,6 +1,6 @@
 ---
 name: Connor Schwepe
-image: images/connor-schwepe.jpg
+image: images/connor-schwepe.jpeg
 description: 
 role: exmember
 links:
