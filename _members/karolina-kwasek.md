@@ -1,11 +1,11 @@
 ---
 name: Karolina Kwasek
-image: images/karolina-kwasek.webp
+image: images/karolina-kwasek1.png
 role: pi
 affiliation: 
 aliases:
 links:
-  UNH: https://colsa.unh.edu/person/karolina-kwasek
+  home-page: https://colsa.unh.edu/person/karolina-kwasek
   orcid: 
 ---
 
