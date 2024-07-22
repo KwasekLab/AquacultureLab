@@ -27,6 +27,7 @@
   publisher: Animals
   date: '2023-01-21'
   link: https://doi.org/gt4wzm
+  image: https://www.mdpi.com/animals/animals-13-00373/article_deploy/html/images/animals-13-00373-g008.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1080/10408398.2019.1708698
