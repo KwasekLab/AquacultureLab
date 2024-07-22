@@ -11,6 +11,7 @@
   publisher: North American Journal of Aquaculture
   date: '2023-12-20'
   link: https://doi.org/gt4v2m
+  image: images/naaq10317-fig-0003-m.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/ani13030373
@@ -27,7 +28,7 @@
   publisher: Animals
   date: '2023-01-21'
   link: https://doi.org/gt4wzm
-  image: image/animals-13-00373-g008.png
+  image: images/animals-13-00373-g008.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1080/10408398.2019.1708698
