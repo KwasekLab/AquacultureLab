@@ -1,7 +1,6 @@
 - id: doi:10.1002/naaq.10317
-  image: images/naaq10317-fig-0003-m.jpg
 - id: doi:10.3390/ani13030373
-  image: images/animals-13-00373-g008.png
+  image: https://www.mdpi.com/animals/animals-13-00373/article_deploy/html/images/animals-13-00373-g008.png
 - id: doi:10.1080/10408398.2019.1708698
 - id: doi:10.1002/naaq.10200
 - id: doi:10.1371/journal.pone.0225917
