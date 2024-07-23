@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/kwasek lab.webp"
+  image="https://news.siu.edu/_assets/images/2022/08/Kwasek-Research-sm.jpg"
   link="research"
   title="Our Research"
   text=text
