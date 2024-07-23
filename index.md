@@ -3,6 +3,7 @@
 
 # Kwasek Lab
 
+Description of lab here?
 
 
 {% include section.html %}
