@@ -197,7 +197,7 @@
   publisher: PLOS ONE
   date: '2024-07-26'
   link: https://doi.org/gt5657
-  image: images/isofig.png
+  image: images/isofig.PNG
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1089/zeb.2024.0139
