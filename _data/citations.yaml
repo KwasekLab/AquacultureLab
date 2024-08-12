@@ -212,6 +212,6 @@
   publisher: Zebrafish
   date: '2024-07-23'
   link: https://doi.org/gt5658
-  image: images/oeofig.jpg
+  image: images/OEOfig.jpg
   plugin: sources.py
   file: sources.yaml
