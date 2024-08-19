@@ -4,7 +4,7 @@ image: images/photo.jpg
 description: 
 role: ms
 links:
-  
+  email: lauren.george@unh.edu
 
 ---
 
