@@ -1,8 +1,8 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1002/naaq.10317
-  title: "Partial and total replacement of soybean meal with a corn\u2010fermented\
-    \ protein product in Rainbow Trout feeds"
+  title: Partial and total replacement of soybean meal with a corn-fermented protein
+    product in Rainbow Trout feeds
   authors:
   - John Grayson
   - Erica Curles
@@ -44,9 +44,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/naaq.10200
-  title: "The Effect of First Feeding Exposure of Larval Largemouth Bass to a Formulated\
-    \ Soybean Meal\u2010Based or Soy Saponin\u2010Supplemented Diet on Fish Growth\
-    \ Performance and Gut Microbiome"
+  title: The Effect of First Feeding Exposure of Larval Largemouth Bass to a Formulated
+    Soybean Meal-Based or Soy Saponin-Supplemented Diet on Fish Growth Performance
+    and Gut Microbiome
   authors:
   - Karolina Kwasek
   - Michal Wojno
@@ -210,7 +210,7 @@
   - Giovanni S. Molinari
   - Karolina Kwasek
   publisher: Zebrafish
-  date: '2024-07-23'
+  date: '2024-10-01'
   link: https://doi.org/gt5658
   image: images/OEOfig.jpg
   plugin: sources.py
