@@ -26,7 +26,7 @@ We continuously create research opportunities for students and professionals so 
 
 {% include figure.html image="images/JohnPete.jpg" %}
 {% include figure.html image="images/jj.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/pete-aubrey.jpg" %}
 
 {% endcapture %}
 
