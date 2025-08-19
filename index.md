@@ -80,7 +80,7 @@ Our team consists of...
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/johns-wedding.jpg"
   link="team"
   title="Our Team"
   text=text
