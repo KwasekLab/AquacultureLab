@@ -3,7 +3,12 @@
 
 # Aquaculture Lab
 
-The Kwasek Aquaculture Lab at the University of New Hampshire focuses on supporting the development of more sustainable intensive aquaculture practices. Over 90% of our research has direct application to the aquaculture industry, both fish farmers as well as feed manufacturers. We recognize the following main areas in our work: 1) modification of fish, 2) feeds, and 3) feeding methods that help fish thrive in more sustainable environments. All these areas stand on four research pillars that our lab represents: nutritional and environmental programming, gut healing, and larval nutrition.
+The Kwasek Aquaculture Lab at the University of New Hampshire focuses on supporting the development of more sustainable intensive aquaculture practices. Over 90% of our research has direct application to the aquaculture industry, both for fish farmers as well as for feed manufacturers. 
+
+We recognize the following main areas in our work: 
+1) modification of fish,
+2) modification of feeds,
+3) modifcation of feeding methods
 
 {% include section.html %}
 
@@ -11,7 +16,7 @@ The Kwasek Aquaculture Lab at the University of New Hampshire focuses on support
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our publications encompass the three main research areas targeted in our lab. 
 
 {%
   include button.html
@@ -28,13 +33,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="https://news.siu.edu/_assets/images/2022/08/Kwasek-Research-sm.jpg"
   link="research"
-  title="Our Research"
+  title="Our Publications"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research stands on the four research pillars that our lab represents: nutritional and environmental programming, gut healing, and larval nutrition.
 
 {%
   include button.html
@@ -52,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   image="images/PeteMichal.jpeg"
   image_style="object-fit: contain;"
   link="projects"
-  title="Our Projects"
+  title="Our Research"
   flip=true
   style="bare"
   text=text
@@ -60,7 +65,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team consists of...
 
 {%
   include button.html
