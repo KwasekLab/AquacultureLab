@@ -1,6 +1,6 @@
 ---
 name: Michal Wojno
-image: images/photo.jpg
+image: images/michal-wojno.jpg
 role: pi
 group: 
 links:
