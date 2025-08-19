@@ -18,7 +18,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 # {% include icon.html icon="fa-solid fa-users" %}Past Members
 
-{% include list.html data="members" component="portrait" filters="role: exmember_phd, exmember_ms, exmember_undergrad, exmember_postdoc" %}
+{% include list.html data="members" component="portrait" filters="role: exmember" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
