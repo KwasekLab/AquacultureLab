@@ -33,7 +33,7 @@ Our publications encompass the three main research areas targeted in our lab.
   include feature.html
   image="https://news.siu.edu/_assets/images/2022/08/Kwasek-Research-sm.jpg"
   link="research"
-  title="Our Publications"
+  title="Our Research"
   text=text
 %}
 
