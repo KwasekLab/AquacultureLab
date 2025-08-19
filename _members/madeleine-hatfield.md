@@ -1,6 +1,6 @@
 ---
 name: Madeleine Hatfield
-image: images/madeleine-hatfield.jpeg
+image: 
 description: 
 role: undergrad
 links:
