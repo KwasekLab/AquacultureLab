@@ -1,6 +1,6 @@
 ---
 name: Madeleine Hatfield
-image: 
+image: images/madeleine-hatfield.jpeg
 description: 
 role: exmember
 links:
