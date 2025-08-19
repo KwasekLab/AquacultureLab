@@ -2,7 +2,7 @@
 name: Esher Swanson
 image: images/esher-swanson.jpeg
 description: 
-role: exmember_undergrad
+role: exmember
 links:
   email: esher.swanson@unh.edu
 
