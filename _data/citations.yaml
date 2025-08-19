@@ -215,3 +215,14 @@
   image: images/OEOfig.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1038/s41598-025-13802-w
+  title: Parental social environment has transgenerational effects on zebrafish (Danio
+    rerio) growth
+  authors:
+  - Aubrey Dissinger
+  - Karolina Kwasek
+  publisher: Scientific Reports
+  date: '2025-08-07'
+  link: https://doi.org/g9xj9q
+  plugin: sources.py
+  file: sources.yaml
