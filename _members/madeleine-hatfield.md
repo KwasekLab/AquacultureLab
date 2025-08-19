@@ -2,7 +2,7 @@
 name: Madeleine Hatfield
 image: 
 description: 
-role: undergrad
+role: exmember
 links:
   email: madeleine.hatfield@unh.edu
 
