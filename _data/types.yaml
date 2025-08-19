@@ -22,21 +22,9 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-exmember_phd:
+exmember:
   icon: fa-solid fa-hourglass
-  description: PhD Graduate
-
- exmember_ms:
-  icon: fa-solid fa-hourglass
-  description: MS Graduate
-
- exmember_undergrad:
-  icon: fa-solid fa-hourglass
-  description: Undergraduate Student
-
-exmember_postdoc:
-  icon: fa-solid fa-hourglass
-  description: Postdoctoral Researcher
+  description: Past Member
 
 programmer:
   icon: fa-solid fa-code
