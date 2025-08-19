@@ -16,7 +16,7 @@ We recognize the following main areas in our work:
 
 {% capture text %}
 
-Our publications encompass the three main research areas targeted in our lab. 
+Our research encompasses the three main research areas targeted in our lab. 
 
 {%
   include button.html
@@ -39,7 +39,7 @@ Our publications encompass the three main research areas targeted in our lab.
 
 {% capture text %}
 
-Our research stands on the four research pillars that our lab represents: nutritional and environmental programming, gut healing, and larval nutrition.
+Our projects stand on the four research pillars that our lab represents: nutritional and environmental programming, gut healing, and larval nutrition.
 
 {%
   include button.html
@@ -57,7 +57,7 @@ Our research stands on the four research pillars that our lab represents: nutrit
   image="images/PeteMichal.jpeg"
   image_style="object-fit: contain;"
   link="projects"
-  title="Our Research"
+  title="Our Projects"
   flip=true
   style="bare"
   text=text
