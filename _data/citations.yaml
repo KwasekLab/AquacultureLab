@@ -227,3 +227,16 @@
   image: images/Figure1.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1371/journal.pone.0326665
+  title: New approach to the development of tailor-made feed for fish larvae using
+    Zebrafish Danio rerio as a model
+  authors:
+  - Giovanni S. Molinari
+  - Michal Wojno
+  - Macdonald Wick
+  - Karolina Kwasek
+  publisher: PLOS One
+  date: '2025-06-24'
+  link: https://doi.org/g9xkct
+  plugin: sources.py
+  file: sources.yaml
