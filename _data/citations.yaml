@@ -224,5 +224,6 @@
   publisher: Scientific Reports
   date: '2025-08-07'
   link: https://doi.org/g9xj9q
+  image: images/Figure1.png
   plugin: sources.py
   file: sources.yaml
