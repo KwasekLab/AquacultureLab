@@ -1,12 +1,14 @@
 ---
 ---
 
-# Kwasek Lab
+# Aquaculture Lab
 
-**this website is under construction**
-Description of lab here?
-
-
+The Kwasek Aquaculture Lab at the {%
+  include button.html
+  link="https://colsa.unh.edu/biological-sciences"
+  text="University of New Hampshire"
+%} 
+focuses on supporting the development of more sustainable intensive aquaculture practices. Over 90% of our research has direct application to the aquaculture industry, both fish farmers as well as feed manufacturers. We recognize the following main areas in our work: 1) modification of fish, 2) feeds, and 3) feeding methods that help fish thrive in more sustainable environments. All these areas stand on four research pillars that our lab represents: nutritional and environmental programming, gut healing, and larval nutrition.
 
 {% include section.html %}
 
