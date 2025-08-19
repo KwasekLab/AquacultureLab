@@ -2,7 +2,7 @@
 name: Connor Schwepe
 image: images/connor-schwepe.jpg
 description: 
-role: exmember_ms
+role: exmember
 links:
   email: cschwepe@utah.gov
 
