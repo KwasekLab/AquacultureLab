@@ -1,6 +1,6 @@
 ---
 name: Aubrey Dissinger
-image: images/aubrey-dissinger.jpeg
+image: images/aubrey-dissinger.jpg
 description: 
 role: phd
 links:
