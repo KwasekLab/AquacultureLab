@@ -240,3 +240,33 @@
   link: https://doi.org/g9xkct
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.cbpa.2024.111742
+  title: Effects of dietary indispensable amino acid deficiencies on feed intake in
+    stomachless fish
+  authors:
+  - Giovanni S. Molinari
+  - Michal Wojno
+  - Karolina Kwasek
+  publisher: 'Comparative Biochemistry and Physiology Part A: Molecular &amp; Integrative
+    Physiology'
+  date: '2024-12-01'
+  link: https://doi.org/g9xkcv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/ani14172493
+  title: The Effect of the Species Source of Muscle and/or Digestive Enzymes on the
+    Utilization of Fish Protein Hydrolysates as a Dietary Protein Source in First
+    Feed for Larval Walleye (Sander vitreus)
+  authors:
+  - Giovanni S. Molinari
+  - Michal Wojno
+  - Genciana Terova
+  - Macdonald Wick
+  - Hayden Riley
+  - Jeffery T. Caminiti
+  - Karolina Kwasek
+  publisher: Animals
+  date: '2024-08-28'
+  link: https://doi.org/g9xkcw
+  plugin: sources.py
+  file: sources.yaml
