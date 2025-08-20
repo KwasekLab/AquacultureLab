@@ -1,8 +1,6 @@
 ---
 ---
 
-# Aquaculture Lab
-
 The Kwasek Aquaculture Lab at the University of New Hampshire focuses on supporting the development of more sustainable intensive aquaculture practices. Over 90% of our research has direct application to the aquaculture industry, both for fish farmers as well as for feed manufacturers. 
 
 We recognize the following main areas in our work: 
