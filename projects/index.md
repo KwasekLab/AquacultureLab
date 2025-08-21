@@ -5,7 +5,7 @@ nav:
   tooltip: Current projects
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-fish-fins" %}Projects
 
 We recognize the following main areas in our work: 1) modification of fish, 2) feeds, and 3) feeding methods that help fish thrive in more sustainable environments. All these areas stand on four research pillars that our lab represents: nutritional and environmental programming, gut healing, and larval nutrition.
 
