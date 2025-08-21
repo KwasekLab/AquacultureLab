@@ -31,8 +31,8 @@ programmer:
   description: Programmer
 
 mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
+  icon: fa-solid fa-bone
+  description: Lab Security
 
 labtech:
   icon: fa-solid fa-flask
