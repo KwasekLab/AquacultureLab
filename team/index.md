@@ -10,7 +10,8 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!(pi|exmember)$)" %}
+{% include list.html data="members" component="portrait" filters="role: ^(?!(pi|exmember|mascot)$)" %}
+{% include list.html data="members" component="portrait" filters="role: mascot" %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Past Members
 
