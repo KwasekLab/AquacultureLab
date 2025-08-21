@@ -2,7 +2,7 @@
 name: Jessica Robinson 
 image: images/jessica 1.png
 description: 
-role: labtech
+role: ms
 links:
   email: jessica.robinson@unh.edu
 
