@@ -39,6 +39,7 @@ The metabolic rate of poikilothermic (cold-blooded) animals, such as fish, is co
 
 {% endcapture %}
 
+{% include grid.html style="square" content=content %}
 
 The successful growth and survival of many fish species, particularly at their young age, strongly depends on environmental conditions, namely food availability and water quality, making fish production in outdoor systems (i.e. ponds) often unpredictable. To intensify fish production, aquaculture has been moving towards sustainable farming intensification, which utilizes indoor recirculation systems. Such technology, however, poses a challenge related to the lack of naturally occurring live food that larval fish prey on. Therefore, the substitution of live food with formulated diets for the early stages of fish has been a major focus in aquaculture during the last decades in order to reduce costs and increase predictability of juvenile production. Different types of formulated feeds have been examined from dry or frozen live food organisms, feeds supplemented with digestive enzymes, to formulated food particles made using different processing methods. However, weaning most first feeding larval fish completely onto formulated dry feeds has not been fully possible yet.
 
