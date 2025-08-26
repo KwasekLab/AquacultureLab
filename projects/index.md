@@ -24,9 +24,6 @@ We recognize the following main areas in our work: 1) modification of fish, 2) f
 
 {% endcapture %}
 
-{% include grid.html style="square" content=content %}
-
-{% include grid.html style="square" content=content %}
 Replacement of fishmeal (FM) in aquaculture diets with plant protein (PP) has been an ongoing challenge. High-quality PP concentrates are widely used since their digestibility can be comparable to FM. However, their price can exceed the cost of marine raw materials. Progress with utilization of lower-quality PP meals has been made but a number of concerns must be overcome to maintain acceptable growth rates and feed efficiency values at high FM substitution levels. For example, the presence of anti-nutritional factors in PP have been associated with intestinal inflammation in fish, which can decrease the capacity of fish digestive tract to digest, absorb, and utilize nutrients. 
 
 One of our main focuses in improving PP utilizaiton has been placed on nutritional programming (NP) - a promising approach that offsets the negative effects of dietary PP in adult fish through brief introduction of PP at an early age. Our lab developed an unconventional NP strategy using live food as PP vehicle. By using enriched live food to program fish at first feeding, we can begin introduction of PP to the fish at the earliest possible point. The combination of live food and PP provides all the nutrients required for proper growth and development while also exposing the fish to alternative raw materials and their associated anti-nutritional factors delivered at low enough concentrations. 
