@@ -1,1 +1,1 @@
-Sitemap: https://kwaseklab.github.io/LabWebsiteTest/sitemap.xml
+Sitemap: https://kwaseklab.github.io/Aquaculture/sitemap.xml
