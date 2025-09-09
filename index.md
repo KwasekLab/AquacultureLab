@@ -63,7 +63,7 @@ Our projects stand on the four research pillars that our lab represents: nutriti
 
 {% capture text %}
 
-Our team consists of...
+Our team consists of a variety of researchers with diverse backgrounds and a wide range of experiences.
 
 {%
   include button.html
