@@ -16,13 +16,11 @@ We recognize the following main areas in our work: 1) modification of fish, 2) f
 ## Modification of Fish
 # Nutritional Programming
 
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/nutritional-programming.png" %}  
-
-{% endcapture %}
+{%
+  include figure.html
+  image="images/nutritional=programming.png"
+  width="1000px"
+%}
 
 Replacement of fishmeal (FM) in aquaculture diets with plant protein (PP) has been an ongoing challenge. High-quality PP concentrates are widely used since their digestibility can be comparable to FM. However, their price can exceed the cost of marine raw materials. Progress with utilization of lower-quality PP meals has been made but a number of concerns must be overcome to maintain acceptable growth rates and feed efficiency values at high FM substitution levels. For example, the presence of anti-nutritional factors in PP have been associated with intestinal inflammation in fish, which can decrease the capacity of fish digestive tract to digest, absorb, and utilize nutrients. 
 
