@@ -10,6 +10,15 @@ We continuously explore new research ventures. Over the years our lab has receiv
 
 {% include section.html %}
 
+{% capture content %}
+
+{% include figure.html image="images/pete-perch.jpg" %} {% include figure.html image="images/jessica-microscope.jpg" %} {% include figure.html image="images/aubrey-hood.jpg" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
+{% include section.html %}
+
 ## Highlighted
 
 {% include citation.html lookup="Can human nutrition be improved through better fish feeding practices? a review paper" style="rich" %}
