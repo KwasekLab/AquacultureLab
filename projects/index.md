@@ -18,7 +18,7 @@ We recognize the following main areas in our work: 1) modification of fish, 2) f
 
 {%
   include figure.html
-  image="images/nutritional=programming.png"
+  image="images/nutritional-programming.png"
   width="1000px"
 %}
 
