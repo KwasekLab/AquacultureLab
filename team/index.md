@@ -17,7 +17,7 @@ nav:
 
 {% include list.html data="members" component="portrait" filters="role: exmember" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/fish-background.jpeg" dark=true %}
 
 We continuously create research opportunities for students and professionals so if any of our research pillars are of interest to you, please feel free to reach out to us. 
 
