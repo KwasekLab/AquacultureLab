@@ -12,13 +12,13 @@ We continuously explore new research ventures. Over the years our lab has receiv
 
 {% capture content %}
 
-{% include figure.html image="images/pete-perch.jpg" %} {% include figure.html image="images/connor-dissection.jpeg" %} {% include figure.html image="images/aubrey-hood.jpg" %}
+{% include figure.html image="images/pete-perch.jpg" %}
+{% include figure.html image="images/connor-dissection.jpeg" %}
+{% include figure.html image="images/aubrey-hood.jpg" %}
 
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
-
-{% include section.html %}
 
 ## Highlighted
 
