@@ -17,6 +17,7 @@ We continuously explore new research ventures. Over the years our lab has receiv
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
 {% include section.html %}
 
 ## Highlighted
