@@ -13,7 +13,7 @@ We continuously explore new research ventures. Over the years our lab has receiv
 {% capture content %}
 
 {% include figure.html image="images/pete-perch.jpg" %}
-{% include figure.html image="images/aubrey-feeding.jpg" %}
+{% include figure.html image="images/aubrey-feeding.png" %}
 {% include figure.html image="images/jessica-microscope.jpg" %}
 
 {% endcapture %}
