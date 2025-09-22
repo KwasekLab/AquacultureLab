@@ -14,7 +14,7 @@ We continuously explore new research ventures. Over the years our lab has receiv
 
 {% include figure.html image="images/pete-perch.jpg" %}
 {% include figure.html image="images/aubrey-feeding.png" %}
-{% include figure.html image="images/jessica-microscope.png" %}
+{% include figure.html image="images/connor-dissection.png" %}
 
 {% endcapture %}
 
