@@ -1,5 +1,6 @@
 ---
 title: Aquaculture America 2023
+image: images/aa23.jpg
 ---
 
 The lab attended Aquaculture America 2023 in New Orleans, LA, USA. In total, six oral presentations were given from the Kwasek lab. 
@@ -9,7 +10,7 @@ The lab attended Aquaculture America 2023 in New Orleans, LA, USA. In total, six
 {% capture content %}
 
 {% include figure.html image="images/jj-presentation.jpg" %}
-{% include figure.html image="images/aa23.jpg" %}
+{% include figure.html image="images/oeo-presentation.jpg" %}
 {% include figure.html image="images/pete-presentation.jpg" %}
 
 {% endcapture %}
