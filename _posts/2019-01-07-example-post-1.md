@@ -1,10 +1,17 @@
 ---
-title: Example post 1
-author: sarah-johnson
-tags:
-  - biology
-  - medicine
-  - big data
+title: Aquaculture America 2023
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The lab attended Aquaculture America 2023 in New Orleans, LA, USA. In total, six oral presentations were given from the Kwasek lab. 
+
+{% include section.html %}
+
+{% capture content %}
+
+{% include figure.html image="images/jj-presentation.jpg" %}
+{% include figure.html image="images/aa23.jpg" %}
+{% include figure.html image="images/pete-presentation.jpg" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
