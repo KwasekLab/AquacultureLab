@@ -119,8 +119,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1089/zeb.2020.1952
-  title: Nutritional Programming with Dietary Soybean Meal and Its Effect on Gut Microbiota
-    in Zebrafish (<i>Danio rerio</i>)
+  title: "Nutritional Programming with Dietary Soybean Meal and Its Effect on Gut\
+    \ Microbiota in Zebrafish (\n                    <i>Danio rerio</i>\n        \
+    \            )"
   authors:
   - Samuel Patula
   - Michal Wojno
@@ -135,8 +136,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1089/zeb.2022.0002
-  title: Feeding Rate and Protein Quality Differentially Affect Growth and Feeding
-    Efficiency Response Variables of Zebrafish (<i>Danio rerio</i>)
+  title: "Feeding Rate and Protein Quality Differentially Affect Growth and Feeding\
+    \ Efficiency Response Variables of Zebrafish (\n                    <i>Danio rerio</i>\n\
+    \                    )"
   authors:
   - Shaley Valentine
   - Karolina Kwasek
@@ -201,9 +203,10 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1089/zeb.2024.0139
-  title: Effects of Oregano (<i>Origanum vulgare</i>) Essential Oil Supplementation
-    on Growth Performance of Zebrafish (<i>Danio rerio</i>) Fed a High-Inclusion Soybean
-    Meal Diet
+  title: "Effects of Oregano (\n                    <i>Origanum vulgare</i>\n    \
+    \                ) Essential Oil Supplementation on Growth Performance of Zebrafish\
+    \ (\n                    <i>Danio rerio</i>\n                    ) Fed a High-Inclusion\
+    \ Soybean Meal Diet"
   authors:
   - Aubrey Dissinger
   - Jacob Bowman
