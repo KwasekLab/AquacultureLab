@@ -2,7 +2,7 @@
 name: Yeonji Lee
 image: images/yeonji.jpg
 description: 
-role: phd
+role: exmember
 links:
   email: yeonjilee98@jejunu.ac.kr
 
